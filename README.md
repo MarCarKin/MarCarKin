@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarCarKin
+- 👋 Hi, I’m @Kiniec
 - 👀 I’m interested in AWS Solution Architect Professional
 - 🌱 I’m currently learning AWS Developer and Data Engineer certification.
 - 📫 How to reach me contact@mkcarlisle.com
